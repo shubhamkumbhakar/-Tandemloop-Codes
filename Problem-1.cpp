@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-double result(int a, int b, string opr ){
+double result(double a, double b, string opr ){
     if(opr=="Addition"){
 	    return a+b;
 	}
